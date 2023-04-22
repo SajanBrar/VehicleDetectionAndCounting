@@ -1,7 +1,3 @@
-# Density Based Traffic Light Management 
-# Minor Project (3rd Year)
-# NITJ
-
 # Importing Libraries
 import cv2 as cv 
 import numpy as np
