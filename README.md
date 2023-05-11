@@ -1,4 +1,4 @@
-# VehicleDetectionAndCounting
+# Density Based Traffic Light Time Setting
 
 ## Problem Statement
 To build a self adaptive traffic light control system based on YOLO. Disproportionate and diverse traffic in different lanes leads to inefficient utilization of same time slot for each of them characterized by slower speeds, longer trip times, and increased vehicular queuing.
